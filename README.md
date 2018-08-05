@@ -1,3 +1,3 @@
 # mathematics_HackerrankSolutions
 
-solutions for hackerrank challenges of Mathematics
+Solutions for Hackerrank Challenges of Mathematics
