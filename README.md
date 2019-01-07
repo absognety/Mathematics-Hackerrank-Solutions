@@ -32,3 +32,8 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Strange Grid Again](strangeGrid.py)
 + [Summing the N Series](sumOfSeries.py)
 + [A Very Big Sum](veryBigSum.py)
+
+This Solution set is authored by myself when I was solving some of Mathematics problems, If you have a code with better efficiency  
+(*Better Complexity*) feel free to give a PR
+
+The challenges can be found at <https://www.hackerrank.com/domains/mathematics>
