@@ -19,7 +19,7 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Handshake](handshakeFunction.py)
 + [Last Occurence of element in an Array](LastOccurence.py)
 + [Leonard's Prime Factors](maxPrimeFactors.py)
-+ [Minimum Area of a Triangle](minimulAreaOfTriangle.py)
++ [Minimum Area of a Triangle](minimulAreaofTriangle.py)
 + [Sherlock and Moving Tiles](moveTilesoverlappingArea.py)
 + [Find the Point](Reflection_point.py)
 + [Restaurant Problem](restaurant.py)
