@@ -33,6 +33,8 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Summing the N Series](sumOfSeries.py)
 + [A Very Big Sum](veryBigSum.py)
 
-This Solution set is authored by myself when I was solving some of Mathematics problems, If you have a code with *better time complexity* feel free to give a PR
+This Solution set is authored by myself when I was solving some of Mathematics problems, It is not a complete set - A work in Progress. 
+
+If you have a code with *better time complexity* feel free to give a PR and also feel free to contribute.
 
 The challenges can be found at <https://www.hackerrank.com/domains/mathematics>
