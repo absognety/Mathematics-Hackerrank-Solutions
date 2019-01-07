@@ -7,14 +7,14 @@ import math
 
 def binarySearch(low,high,value):
     
-    while (low<=high):
-        mid = math.floor((high+low)/2)
-        if (arr[mid]<value):
-            low=mid+1
-        elif (arr[mid]>value):
-            high=mid-1
-        else:
-            return mid
-        
-    return -1
-
+    if value in arr:
+        while (low<=high):
+            mid = math.floor((high+low)/2)
+            if (arr[mid]<value):
+                low=mid+1
+            elif (arr[mid]>value):
+                high=mid-1
+            else:
+                return mid
+    else:        
+        return -1
