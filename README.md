@@ -2,7 +2,7 @@
 
 Solutions for Hackerrank Challenges of Mathematics and algorithms
 
-**Description of the Code files
+**Description of the Code files**
 
 + [Army Game](armyGame.py)
 + [Best Divisor](bestdivisor.py)
