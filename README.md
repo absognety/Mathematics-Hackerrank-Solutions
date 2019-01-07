@@ -5,7 +5,7 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 **Description of the Code files
 
 + [Army Game](armyGame.py)
-+ [Best Divisor](bestDivisor.py)
++ [Best Divisor](bestdivisor.py)
 + [Binary Search](BinarySearch.py)
 + [Connecting Towns](connectTowns.py)
 + [Cutting Paper Squares](cuttingSquares.py)
