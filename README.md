@@ -24,7 +24,7 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Find the Point](Reflection_point.py)
 + [Restaurant Problem](restaurant.py)
 + [Reverse Game](reversal_Ntimes.py)
-+ [Comparing Numbers](scoreCompare.py)
++ [Comparing Triplets](scoreCompare.py)
 + [Sherlock and Permutations](sherlockPermutations.py)
 + [Simple Array Sum](simple_Arraysum.py)
 + [Special Multiple](specialMultiple.py)
